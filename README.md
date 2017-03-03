@@ -2,4 +2,4 @@
 
 New York Times article search built with React using the NYT APi   
 
-Built Collabortivly with Rutgers Coding Bootcam
+Built Collaboratively with Rutgers Coding Bootcam
