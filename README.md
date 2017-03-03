@@ -1,5 +1,5 @@
 # NYTIMES
 
-New York Times article search built with React using the NYT APi
+New York Times article search built with React using the NYT APi   
 
-Built Collabortivly with Rutgers Coding Bootcamp
+Built Collaborativly with Rutgers Coding Bootcam
